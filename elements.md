@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research Highlights
 feature_text: |
   A demo of Markdown and HTML includes
 feature_image: "http://hep.itp.tuwien.ac.at/string/images/moonshine.jpg"
