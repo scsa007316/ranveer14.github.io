@@ -3,7 +3,11 @@ title: Ranveer Kumar Singh
 feature_text: |
   ## Ranveer Kumar Singh
   Welcome to my homepage.
-feature_image: "https://news.nus.edu.sg/sites/default/files/resources/research%20blog/2018/2018-12/string_theory-1.jpg"
+feature_image: 
+#your-div {
+  background: url('https://news.nus.edu.sg/sites/default/files/resources/research%20blog/2018/2018-12/string_theory-1.jpg') no-repeat;
+  background-size:contain;
+}
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 ## About me
