@@ -2,7 +2,7 @@
 title: Research Highlights
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "http://hep.itp.tuwien.ac.at/string/images/moonshine.jpg"
+feature_image: "st.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
