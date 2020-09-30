@@ -98,8 +98,8 @@ logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/ranveer14/ranveer14.github.io"
+email: "ranveersfl@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # google_analytics: ''
 # google_analytics_anonymize_ip: ''
@@ -129,7 +129,7 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Links
+- title: GitHub
   url: https://github.com/ranveer14
 
 navigation_footer:
@@ -137,7 +137,7 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/54f07eea7b5e472
-  GitHub: https://github.com/daviddarnes
+  GitHub: https://github.com/ranveer14
   
   
 
